@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+1 光学类
+  (1) 光学原理 
+  (2) 傅里叶光学
+  (3) 量子光学
+  (4) Zemax 仿真与分析
+2 数学类
+  (1) 数学分析
+  (2) 高等代数
+  (3) 高等数理统计
+  (4) 模式识别
